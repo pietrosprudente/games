@@ -2,4 +2,4 @@
 
 Summary
 
-* [Pong](pong/README.md)
+* [Pong](pong/)
